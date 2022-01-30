@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devofficer&layout=compact)](https://github.com/devofficer/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">A passionate full-stack developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devofficer&label=Profile%20views&color=0e75b6&style=flat" alt="devofficer" /> </p>
